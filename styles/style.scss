@@ -1,0 +1,20 @@
+
+$Strong-Cyan: hsl(171, 66%, 44%);
+$Light-Blue: hsl(233, 100%, 69%);
+$Dark-Grayish-Blue: hsl(210, 10%, 33%);
+$Grayish-Blue: hsl(201, 11%, 66%);
+
+@import "./partials/header";
+@import "./partials/articles";
+@import "./partials/footer";
+@import "./partials/media";
+
+body {
+    margin: 0;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 18px;
+   min-width: 375px;
+}
+
+
+
