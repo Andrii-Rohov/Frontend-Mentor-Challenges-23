@@ -15,12 +15,12 @@
     .buttons {
         flex-direction: column !important;
         width: 100%;
-        #ios {
+        .ios {
             margin: 0 0 25px 0 !important;
             width: 83% !important;
         }
 
-        #mac {
+        .mac {
             margin: 0 !important;
             width: 83% !important;
         }

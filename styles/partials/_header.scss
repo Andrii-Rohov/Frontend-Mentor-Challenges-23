@@ -34,7 +34,7 @@
         justify-content: center;
         align-items: center;
         margin-top: 47px;
-        #ios {
+        .ios {
             background-color: $Strong-Cyan;
             margin-right: 15px;
             border: 1px solid #2f9681;
@@ -50,7 +50,7 @@
 
             }
         }
-        #mac {
+        .mac {
             background-color: $Light-Blue;
             border: 1px solid #5964be;
             border-top: 3px solid #6a77df;

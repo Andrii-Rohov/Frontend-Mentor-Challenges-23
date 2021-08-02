@@ -9,6 +9,10 @@ $Grayish-Blue: hsl(201, 11%, 66%);
 @import "./partials/footer";
 @import "./partials/media";
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     margin: 0;
     font-family: 'Bai Jamjuree', sans-serif;
